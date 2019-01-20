@@ -1,3 +1,6 @@
 [submodule "ucglib"]
 	path = ucglib
 	url = https://github.com/fornellas/ucglib.git
+[submodule "mlx90640-library"]
+	path = mlx90640-library
+	url = https://github.com/pimoroni/mlx90640-library.git
